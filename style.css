@@ -1,27 +1,42 @@
-body{
-    background:#f3f3f3;
-    color:#333;
-    width:100%;
-    font-family:sans-serif;
-    margin:0 auto;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Delayota</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <div class="jarak">
+           <h2>Belajar Membuat Website apik dengan HTML, no css, dan no layout</h2>
+        </div>
+    </div> 
+    <div class="menu">
+<ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="#">Blog</a></li>
+    <li><a href="#">Contact</a></li>
+</ul>
+   </div>       
 
-.header{
-    width:90%;
-    margin:auto;
-    height:120px;
-    line-height:120px;
-    background:#417aa8;
-    color:#fff;
-}
-.jarak{
-    padding:0 2pc;
-}
-.menu{
-    background-color:#417aa8;
-    height:50px;
-    line-height:50px;
-    position:relative;
-    width:90%;
-    margin:0 auto;
-    padding:0 auto;
+<h3>HTML</h3>
+
+<p>HTML atau hyperText Markup Language blablabla</p>
+<button>Selengkapnya....</button>
+<p>CSS atau Cascading style sheet</p>
+<button>Selengkapnya....</button>
+
+<h3>Category</h3>
+<ul>
+    <p><a href="#">HTML</a></p>
+    <p><a href="#">NO CSS</a></p>
+    <p><a href="#">BOOTSTRAP</a></p>
+    <p><a href="#">PHP</a></p>
+    <p><a href="#">CSS</a></p>
+    <p><a href="#">Python</a></p>
+    <p><a href="#">Javascript</a></p>
+</ul>
+
+<p>Copyright @2026 DELAYOTA all reserved</p>
+</body>
+</html>
