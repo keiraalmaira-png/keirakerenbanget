@@ -1,5 +1,5 @@
 body{
-  background-color:ebf0ff;
+  background-color:#FFEBEB;
   color:#333;
   width:100%;
   font-family:sans-serif;
@@ -20,7 +20,7 @@ body{
 }
 
 .menu{
-  background-color:27EEF5;
+  background-color:#417aa8;
   height:50px;
   line-height:50px;
   position:relative;
